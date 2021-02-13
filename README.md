@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![SimpleTweet](https://user-images.githubusercontent.com/58004262/107838837-6d724400-6d6d-11eb-8485-ce742da56dce.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
